@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\KelimeOgrenme\KelimeOgrenme\bin\Debug\KelimeOgrenme.exe.config
+C:\Users\lenovo\source\repos\KelimeOgrenme\KelimeOgrenme\bin\Debug\KelimeOgrenme.exe
+C:\Users\lenovo\source\repos\KelimeOgrenme\KelimeOgrenme\bin\Debug\KelimeOgrenme.pdb
+C:\Users\lenovo\source\repos\KelimeOgrenme\KelimeOgrenme\obj\Debug\KelimeOgrenme.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\KelimeOgrenme\KelimeOgrenme\obj\Debug\KelimeOgrenme.Properties.Resources.resources
+C:\Users\lenovo\source\repos\KelimeOgrenme\KelimeOgrenme\obj\Debug\KelimeOgrenme.SorularIngTur.resources
+C:\Users\lenovo\source\repos\KelimeOgrenme\KelimeOgrenme\obj\Debug\KelimeOgrenme.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\KelimeOgrenme\KelimeOgrenme\obj\Debug\KelimeOgrenme.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\KelimeOgrenme\KelimeOgrenme\obj\Debug\KelimeOgrenme.exe
+C:\Users\lenovo\source\repos\KelimeOgrenme\KelimeOgrenme\obj\Debug\KelimeOgrenme.pdb
+C:\Users\lenovo\source\repos\KelimeOgrenme\KelimeOgrenme\obj\Debug\KelimeOgrenme.KelimeOgrenmeAnaEkran.resources
+C:\Users\lenovo\source\repos\KelimeOgrenme\KelimeOgrenme\obj\Debug\KelimeOgrenme.KelimeIslem.resources
+C:\Users\lenovo\source\repos\KelimeOgrenme\KelimeOgrenme\obj\Debug\KelimeOgrenme.Istatiktistik.resources
+C:\Users\lenovo\source\repos\KelimeOgrenme\KelimeOgrenme\obj\Debug\KelimeOgrenme.KelimeGuncelle.resources
+C:\Users\lenovo\source\repos\KelimeOgrenme\KelimeOgrenme\obj\Debug\KelimeOgrenme.KelimeSil.resources
